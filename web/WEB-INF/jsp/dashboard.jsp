@@ -1,7 +1,7 @@
 <%-- 
     Document   : dashboard
     Created on : May 23, 2018, 2:42:37 PM
-    Author     : user0
+    Author     : hlouizyas
 --%>
 
 <%@page import="kic.admin.DbController"%>
@@ -138,7 +138,7 @@
         </div>
         
         <div class="footer ">
-            <p>KIC Admin has been developed with Web Application Development Course</p>
+            <p>KIC Admin has been developed with Web Application Development Course Practice</p>
         </div>
 
     </body>
