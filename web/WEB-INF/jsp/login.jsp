@@ -40,7 +40,7 @@
             <div class="col-3 col-s-3"></div>
         </div>
         <div class="footer">
-            <p>Room Admin has been developed with Web Application Development Course</p>
+            <p>Room Admin has been developed with Web Application Development Course Practice</p>
         </div>
     </body>
 </html>
