@@ -52,7 +52,6 @@ public class CourseController {
 
                 Course course = new Course();
 
-                // String codeparams[] = request.getParameterValues("twitter_handle"); 
                 //-----------------------------------------
                 String idparams[] = request.getParameterValues("id");
                 String codeparams[] = request.getParameterValues("code");
