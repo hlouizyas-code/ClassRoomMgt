@@ -1,7 +1,7 @@
 <%-- 
     Document   : roomDeleteDetails
     Created on : Jun 3, 2018, 6:59:31 PM
-    Author     : shema
+    Author     : hlouizyas
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -65,7 +65,7 @@
        
   
         <div class="footer">
-            <p><em>Room Admin has been developed with Web Application Development Course</em></p>
+            <p><em>Room Admin has been developed with Web Application Development Course Practice</em></p>
         </div>
     </body>
 </html>
