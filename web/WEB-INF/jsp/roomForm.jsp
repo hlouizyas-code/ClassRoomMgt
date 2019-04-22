@@ -1,7 +1,7 @@
 <%-- 
     Document   : roomForm
     Created on : May 24, 2018, 10:31:01 AM
-    Author     : user0
+    Author     : hlouizyas
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -76,7 +76,7 @@
         </div>
             
         <div class="footer">
-            <p>Room Admin has been developed with Web Application Development Course</p>
+            <p>Room Admin has been developed with Web Application Development Course Practice</p>
         </div>
     </body>
 </html>
